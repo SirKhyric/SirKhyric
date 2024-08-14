@@ -7,13 +7,12 @@
 
 **What I'm Currently Learning
 
-- How to use Git and GitHub
 - Web Development
-- Advanced HTML and CSS
+- React
+- TypeScript
 
 **Completed Works
-- First Repo: https://github.com/SirKhyric/my_first_git_repo.git
-
+- 
 <!---
 SirKhyric/SirKhyric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
